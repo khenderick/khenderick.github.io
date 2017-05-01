@@ -65,7 +65,7 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 # Education
 
-### Prof. Bachelor in Electronics - Information- and Communication Technology
+**Prof. Bachelor** • Electronics - Information- and Communication Technology
 
 ###### 2003 - 2006 • Ghent, Belgium • [Odisee (Dutch)](https://www.odisee.be/nl/elektronica-ict)
 
