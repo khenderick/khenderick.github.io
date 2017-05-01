@@ -71,7 +71,7 @@ New software technologies/languages | javascript frameworks | PCB design | elect
 
 ### OpenMotics
 
-Began as a hobby, my interests in home automation grew into a small Open Source company creating a home automation platform.
+It all began as a shared hobby between friends, and grew into a small Open Source company. Making both hard- and software open source, we allow users/customers to modify their system, free from any vendor lock-in. A plugin system allows addidional features to be developed by the community.
 
 ###### Github: [github.com/openmotics](https://github.com/openmotics)
 
