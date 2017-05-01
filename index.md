@@ -4,12 +4,28 @@
 - _Location_: Evergem, Belgium
 - _DOB_: December 1985
 - _Family_: Married, 2 children
-- _Languages_: Dutch (monthertongue), English (Fluent written and spoken)
+- _Languages_: Dutch (native speaker), English (fluent written and spoken)
 - _Social media_: [khenderick_](https://twitter.com/khenderick_) (twitter) | [khenderick](https://github.com/khenderick) (github) | [kennethhenderick](https://www.linkedin.com/in/kennethhenderick/) (linkedin)
+- _Email_: `git log | grep -oEm1 'kenneth@.*?\.be'`
 
-# Keywords/tags
+# Interests
 
-Loves software - Python & C# - Modern javascript - Open Source minded - Hardware enthousiast - Electronics, love the smell of solder - Explaining the world to my kids
+New software technologies/languages | javascript frameworks | PCB design | electronics | product design | UX | watching my kids discover the world.
+
+# Technologies
+
+##### Professional
+
+- _Javascript_: ES5, 6 and 7 | 5+ years | Aurelia (similar to Angular2), KnockoutJS
+- _Python_: 2.7 | 5+ years | Django, Flask, Gunicorn, Unittest
+- _C#_: 4.0 | 5+ years | Entity Framework
+
+##### Hobby
+
+- _C_: Embedded programming | 5+ years
+- _Python_: uPython (python for microcontrollers) | 1+ years
+- _Lua_: 1+ years
+- _Eagle_: PCB design software
 
 # Experience
 
@@ -27,11 +43,11 @@ Loves software - Python & C# - Modern javascript - Open Source minded - Hardware
 
 **Teamlead Software Engineering** - As part of the "framework" team, I'm leading a small team working on the software's frontend and automation backend. This allows customers to fully setup and tweak their storage setup. A lot of components have been developed in-house, such as a [NoSQL python ORM](https://github.com/openvstorage/framework/tree/develop/ovs/dal).
 
-###### 01/2012 - Present | Lochristi, Belgium | Python, ES5, HTML5, CSS, NoSQL | Django, Durandal
+###### 01/2012 - Present | Lochristi, Belgium | Python, ES5, HTML5, CSS, NoSQL | Django, Flask, Durandal
 
 ### [Telenet](https://www.hostbasket.com)
 
-> Hostbasket (aquired by Telenet) offers a complete range of hosting solutions for companies and organisations who would like to maintain a presence on the Internet or use Internet technologies to work more efficiently. Hostbasket is a Telenet company.
+> Hostbasket offers a complete range of hosting solutions for companies and organisations who would like to maintain a presence on the Internet or use Internet technologies to work more efficiently. Hostbasket is a Telenet company.
 
 **Teamlead IT Development** - I was leading a team of developers responsible for the complete in-house developed ERP package; automating the whole company's processes: order management, invoicing and billing, service delivery, ticketing and integration with various third party systems.
 
