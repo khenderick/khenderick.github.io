@@ -57,7 +57,7 @@ New software technologies/languages | javascript frameworks | PCB design | elect
 
 > SchoolOnline is an online School administration platform
 
-**Support engineer and PHP Developer** - As Pronoia's first fulltime developer, I worked together with the company's founders to expand the system, together with customer support.
+**Support engineer and PHP Developer** - As Pronoia's first fulltime developer, I worked together with the company's founders to expand the system. I was also responsible for customer support.
 
 ###### 08/2016 - 10/2007 | Ghent, Belgium | PHP 4
 
@@ -71,7 +71,7 @@ New software technologies/languages | javascript frameworks | PCB design | elect
 
 ### OpenMotics
 
-Began as hobby, my interests in home automation grew into a small Open Source company creating a home automation platform.
+Began as a hobby, my interests in home automation grew into a small Open Source company creating a home automation platform.
 
 ###### Github: [github.com/openmotics](https://github.com/openmotics)
 
