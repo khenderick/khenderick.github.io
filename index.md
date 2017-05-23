@@ -43,9 +43,9 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 > Open vStorage is the best open-source Storage Platform for Advanced Storage Workloads: Virtualization, vDisks, Docker, Databases, NAS, SAN, ...
 
-**Teamlead Software Engineering** • As part of the "framework" team, I'm leading a small team working on the software's frontend and automation backend. This allows customers to fully setup and tweak their storage setup. A lot of components have been developed in-house, such as a [NoSQL python ORM](https://github.com/openvstorage/framework/tree/develop/ovs/dal).
+**Teamlead Software Engineering** • As part of the "framework" team, I was leading a small team working on the software's frontend and automation backend. This allows customers to fully setup and tweak their storage setup. A lot of components have been developed in-house, such as a [NoSQL python ORM](https://github.com/openvstorage/framework/tree/develop/ovs/dal).
 
-###### 01/2012 - Present • Lochristi, Belgium • Python, ES5, HTML5, CSS, NoSQL • Django, Flask, Durandal
+###### 01/2012 - 07/2017 • Lochristi, Belgium • Python, ES5, HTML5, CSS, NoSQL • Django, Flask, Durandal
 
 ### [Telenet](https://www.hostbasket.com)
 
