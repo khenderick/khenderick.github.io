@@ -37,7 +37,15 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 **Co-Founder, Software Engineer** • As part of the Software team, I'm working on both frontend and backend, providing users with an easy-to-use interface for managing their home automation platform. Some parts mainly use Django and its templating engine, newer parts consist of an [Aurelia frontend](https://github.com/openmotics/gateway-frontend) talking to an API.
 
-###### 05/2012 - Present • Lochristi, Belgium • Python, ES5/6/7, HTML5, CSS • Django, Cherrypy, KnockoutJS, Aurelia
+###### 05/2012 - Present • Gent, Belgium • Python, ES5/6/7, HTML5, CSS • Django, Cherrypy, KnockoutJS, Aurelia
+
+### [myHarmoney](https://myharmoney.eu/)
+
+> Harmoney helps investors to get the most suitable financial service, and helps advisors to deliver it. Harmoney is a young company, founded by an experienced team, currently delivering the first release of their KYC-as-a-Service platform for the European market with a selected number of launching customers. It’s an enabler for growth. Not a threat.
+
+**Software Engineer** • As part of the Frontend team, I'm working on the frontend using Angular2, building a multi-device web application that enables users to manage financial data, connecting investors and advisors.
+
+###### 07/2017 - Present • Gent, Belgium • Typescript, ES5/6/7, HTML5, CSS • Angular2
 
 ### [Open vStorage](http://www.openvstorage.org/)
 
