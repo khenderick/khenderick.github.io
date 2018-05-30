@@ -36,7 +36,7 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 > OpenMotics makes an affordable home automation system. Both hard- and software are developed in-house and are available as open-source. It allows its users to take full control over their house and gives them access to high resolution energy measurements.
 
-**Co-Founder, Software Engineer** • As part of the Software team, I'm working on both frontend and backend, providing users with an easy-to-use interface for managing their home automation platform. Some parts mainly use Django and its templating engine, newer parts consist of an [Aurelia frontend](https://github.com/openmotics/gateway-frontend) talking to an API.
+**Co-Founder, Software Engineer** • As part of the Software team, I'm working on both frontends and backends, providing users with an easy-to-use interface for managing their building automation platform. Some parts use Django and its templating engine, newer parts consist of an [Aurelia frontend](https://github.com/openmotics/gateway-frontend) talking to an API.
 
 ###### 05/2012 - Present • Gent, Belgium • Python, ES5/6/7, HTML5, CSS • Django, Cherrypy, KnockoutJS, Aurelia
 
@@ -78,11 +78,11 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 ###### 2003 - 2006 • Ghent, Belgium • [Odisee (Dutch)](https://www.odisee.be/nl/elektronica-ict)
 
-# Projects
+# OpenSource Projects
 
 ### [OpenMotics](https://github.com/openmotics)
 
-It all began as a shared hobby between friends, and grew into a small Open Source company. Making both hard- and software open source, we allow users/customers to modify their system, free from any vendor lock-in. A plugin system allows addidional features to be developed by the community.
+It all began as a shared hobby between friends, and grew into an Open Source company. Making both hard- and software open source, we allow users/customers to modify their system, free from any vendor lock-in. A app platform allows addidional features to be developed by the community or other vendors. Besides building automation, Energy measurements and management are a key feature of the platform.
 
 ### [ZFS Snapshot Manager](https://github.com/khenderick/zfs-snap-manager)
 
