@@ -19,8 +19,9 @@ New software technologies/languages • javascript frameworks • PCB design •
 ##### Professional
 
 - _Javascript_: ES5, 6 and 7 • 5+ years • Aurelia (similar to Angular2), KnockoutJS
-- _Python_: 2.7 • 5+ years • Django, Flask, Gunicorn, Unittest
+- _Python_: 2.7, 3.6 • 5+ years • Django, Flask, Gunicorn, Unittest
 - _C#_: 4.0 • 5+ years • Entity Framework
+- _Java_: 8 • 1 year • Hibernate, Wildfly, Maven, JavaEE
 
 ##### Hobby
 
