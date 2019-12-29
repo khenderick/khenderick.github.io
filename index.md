@@ -14,7 +14,7 @@
 
 New software technologies/languages • javascript frameworks • PCB design • electronics • product design • UX • watching my kids discover the world.
 
-# Technologies
+# Technologies/applications
 
 ##### Professional
 
@@ -27,7 +27,9 @@ New software technologies/languages • javascript frameworks • PCB design •
 - _C_: Embedded programming • 5+ years
 - _Python_: uPython (python for microcontrollers) • 1+ years
 - _Lua_: 1+ years
-- _Eagle_: PCB design software
+- _PCB design_: Eagle • 5+ years
+- _CAD_: Fusion 360 • 1+ years
+- _HDL_: Verilog for Lattice iCE40UP5k FPGA • 0+ years
 
 # Experience
 
