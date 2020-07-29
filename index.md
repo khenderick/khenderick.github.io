@@ -40,9 +40,9 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 > On 07/2018, OpenMotics was acquired by [Renson](https://www.renson.eu), a leading ventilation, sun protection and outdoor/heathy living specialist.
 
-**Co-Founder, Software Engineer** • As part of the Software team, I'm working on both frontends and backends, providing users with an easy-to-use interface for managing their building automation platform. Some parts use Django and its templating engine, newer parts consist of an [Aurelia frontend](https://github.com/openmotics/gateway-frontend) talking to an API.
+**Co-Founder, Software Engineer** • As part of the backend software team, I'm working the various backends (on the Cloud and local Gateway). Previously I was also working on the frontends, but since the company grew, that became a dedicated team. Every now and then there's some C firmware writing as well.
 
-###### 05/2012 - Present • Gent, Belgium • Python, ES5/6/7, HTML5, CSS • Django, Cherrypy, KnockoutJS, Aurelia
+###### 05/2012 - Present • Gent, Belgium • Python, ES5/6/7, HTML5, CSS • Django, Cherrypy, KnockoutJS, Aurelia, C
 
 ### [Harmoney](https://myharmoney.eu/)
 
