@@ -19,7 +19,7 @@ New software technologies/languages • javascript frameworks • PCB design •
 ##### Professional
 
 - _Javascript_: ES5, 6 and 7 • 5+ years • Aurelia (similar to Angular2), KnockoutJS
-- _Python_: 2.7, 3.6 • 10+ years • Django, Flask, Gunicorn, Unittest
+- _Python_: 2.7, 3.x • 10+ years • Django, Flask, Gunicorn, Unittest, Asyncio, Celery, ...
 - _C#_: 4.0 • 5+ years • Entity Framework
 - _Java_: 8 • 1 year • Hibernate, Wildfly, Maven, JavaEE
 
@@ -40,7 +40,7 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 > On 07/2018, OpenMotics was acquired by [Renson](https://www.renson.eu), a leading ventilation, sun protection and outdoor/heathy living specialist.
 
-**Co-Founder, Software Engineer** • As part of the backend software team, I'm working the various backends (on the Cloud and local Gateway). Previously I was also working on the frontends, but since the company grew, that became a dedicated team. Every now and then there's some C firmware writing as well.
+**Co-Founder, Software Engineer** • As part of the backend software team, I'm working the various backends (on the Cloud and local Gateway). Previously I was also working on the frontends, but since the company grew, that became a dedicated team. Every now and then there's some C firmware writing as well (mainly bootloaders).
 
 ###### 05/2012 - Present • Gent, Belgium • Python, ES5/6/7, HTML5, CSS • Django, Cherrypy, KnockoutJS, Aurelia, C
 
