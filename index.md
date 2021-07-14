@@ -19,17 +19,17 @@ New software technologies/languages • javascript frameworks • PCB design •
 ##### Professional
 
 - _Javascript_: ES5, 6 and 7 • 5+ years • Aurelia (similar to Angular2), KnockoutJS
-- _Python_: 2.7, 3.6 • 5+ years • Django, Flask, Gunicorn, Unittest
+- _Python_: 2.7, 3.6 • 10+ years • Django, Flask, Gunicorn, Unittest
 - _C#_: 4.0 • 5+ years • Entity Framework
 - _Java_: 8 • 1 year • Hibernate, Wildfly, Maven, JavaEE
 
 ##### Hobby
 
 - _C_: Embedded programming • 5+ years
-- _Python_: uPython (python for microcontrollers) • 1+ years
+- _Python_: uPython (python for microcontrollers) • 3+ years
 - _Lua_: 1+ years
 - _PCB design_: Eagle • 5+ years
-- _CAD design_: Fusion 360 • 1+ years
+- _CAD design_: Fusion 360 • 2+ years
 - _HDL_: Verilog for Lattice iCE40UP5k FPGA • 0+ years
 
 # Experience
