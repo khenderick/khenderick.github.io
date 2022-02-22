@@ -23,6 +23,7 @@ New software technologies/languages • PCB design • electronics • product d
 - _C#_: 4.0 • 5+ years • Entity Framework
 - _C_: Embedded programming • 2+ years • MPLAB XC8
 - _Java_: 8 • 1 year • Hibernate, Wildfly, Maven, JavaEE
+- _CI/CD_: Various • 5+ years • Jenkins, Travis, Ansible, Technology-related (automated) build tools
 
 ##### Hobby
 
