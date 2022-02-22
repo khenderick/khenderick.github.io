@@ -31,6 +31,7 @@ New software technologies/languages • PCB design • electronics • product d
 - _Lua_: 1+ years
 - _PCB design_: Eagle • 5+ years
 - _CAD design_: Fusion 360 • 2+ years
+- _Additive & substractive manufacturing_: 3D printer (FSM) & CNC • 5+ years
 
 # Experience
 
