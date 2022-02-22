@@ -12,15 +12,16 @@
 
 # Interests
 
-New software technologies/languages • javascript frameworks • PCB design • electronics • product design • UX • watching my kids discover the world.
+New software technologies/languages • PCB design • electronics • product design • home automation • UX • watching my kids discover the world.
 
 # Technologies/applications
 
 ##### Professional
 
-- _Javascript_: ES5, 6 and 7 • 5+ years • Aurelia (similar to Angular2), KnockoutJS
+- _Javascript_: ES5/6/7 • 5+ years • Aurelia (similar to Angular2), KnockoutJS
 - _Python_: 2.7, 3.x • 10+ years • Django, Flask, Gunicorn, Unittest, Asyncio, Celery, ...
 - _C#_: 4.0 • 5+ years • Entity Framework
+- _C_: Embedded programming • 2+ years • MPLAB XC8
 - _Java_: 8 • 1 year • Hibernate, Wildfly, Maven, JavaEE
 
 ##### Hobby
@@ -30,7 +31,6 @@ New software technologies/languages • javascript frameworks • PCB design •
 - _Lua_: 1+ years
 - _PCB design_: Eagle • 5+ years
 - _CAD design_: Fusion 360 • 2+ years
-- _HDL_: Verilog for Lattice iCE40UP5k FPGA • 0+ years
 
 # Experience
 
@@ -40,9 +40,9 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 > On 07/2018, OpenMotics was acquired by [Renson](https://www.renson.eu), a leading ventilation, sun protection and outdoor/heathy living specialist.
 
-**Co-Founder, Software Engineer** • As part of the backend software team, I'm working the various backends (on the Cloud and local Gateway). Previously I was also working on the frontends, but since the company grew, that became a dedicated team. Every now and then there's some C firmware writing as well (mainly bootloaders).
+**Co-Founder, Software Engineer** • As part of the backend software team, I'm working the various backends (on the Cloud and local Gateway). Previously I was also working on the frontends, but since the company grew, that became a dedicated team. I maintain some of the firmwares (2 bootloaders in C) and there's some fiddling with logic analysers every now and then.
 
-###### 05/2012 - Present • Gent, Belgium • Python, ES5/6/7, HTML5, CSS • Django, Cherrypy, KnockoutJS, Aurelia, C
+###### 05/2012 - Present • Gent, Belgium • Python 2.7, 3.x, ES5/6/7, HTML5, CSS • Django, Cherrypy, C
 
 ### [Harmoney](https://myharmoney.eu/)
 
@@ -64,7 +64,7 @@ New software technologies/languages • javascript frameworks • PCB design •
 
 > Hostbasket offers a complete range of hosting solutions for companies and organisations who would like to maintain a presence on the Internet or use Internet technologies to work more efficiently. Hostbasket is a Telenet company.
 
-**Teamlead IT Development** • I was leading a team of developers responsible for the complete in-house developed ERP package; automating the whole company's processes: order management, invoicing and billing, service delivery, ticketing and integration with various third party systems.
+**Teamlead IT Development** • I was leading a team of developers responsible for the complete in-house developed ERP package; automating the whole company's processes: order management, invoicing and billing, service/product delivery, deployments, ticketing and integration with various third party systems.
 
 ###### 11/2007 - 12/2011 • Lochristi, Belgium • C# 4.0, PowerShell, ES5, HTML5, CSS • EF
 
