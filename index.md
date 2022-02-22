@@ -12,7 +12,7 @@
 
 # Interests
 
-New software technologies/languages • PCB design • electronics • product design • home automation • UX • watching my kids discover the world.
+New software technologies/languages • PCB design • electronics • product design • home automation • UX • open source software • watching my kids discover the world.
 
 # Technologies/applications
 
