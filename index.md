@@ -36,15 +36,23 @@ New software technologies/languages • PCB design • electronics • product d
 
 # Experience
 
+### [Harmoney](https://myharmoney.eu/)
+
+> Harmoney offers and end-to-end solution for digital, automated ongoing compliance, reducing workloads, increasing data accuracy, and ensuring complete adherence to all regulation, in every jurisdiction. Our compliance engine enables your compliance team to manage and enforce your compliance policies and scenarios using completely customizable, pre-formatted risk models, AML screening stategies, KYC/UBO scenarios, and much more.
+
+**Software Engineer** • As part of the development team, I am working on various aspect of the application backend, building a multi-device web application that enables users to manage financial data, connecting investors and advisors.
+
+###### 07/2022 - Present • Gent, Belgium • Java, Docker • JavaEE, Wildfly
+
 ### [OpenMotics](https://www.openmotics.com/)
 
 > OpenMotics makes an affordable home automation system. Both hard- and software are developed in-house and are available as open-source. It allows its users to take full control over their house and gives them access to high resolution energy measurements.
 
 > On 07/2018, OpenMotics was acquired by [Renson](https://www.renson.eu), a leading ventilation, sun protection and outdoor/heathy living specialist.
 
-**Co-Founder, Software Engineer** • As part of the backend software team, I'm working the various backends (on the Cloud and local Gateway). Previously I was also working on the frontends, but since the company grew, that became a dedicated team. I maintain some of the firmwares (2 bootloaders in C) and there's some fiddling with logic analysers every now and then.
+**Co-Founder, Software Engineer** • As part of the backend software team, I was working the various backends (on the Cloud and local Gateway). Previously I was also working on the frontends, but since the company grew, that became a dedicated team. I maintained some of the firmwares (2 bootloaders in C) and there was some fiddling with logic analysers every now and then.
 
-###### 05/2012 - Present • Gent, Belgium • Python 2.7, 3.x, ES5/6/7, HTML5, CSS • Django, Cherrypy, C
+###### 05/2012 - 06/2022 • Gent, Belgium • Python 2.7, 3.x, ES5/6/7, HTML5, CSS • Django, Cherrypy, C
 
 ### [Harmoney](https://myharmoney.eu/)
 
