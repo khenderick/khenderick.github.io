@@ -7,7 +7,7 @@
 - _DOB_: December 1985
 - _Family_: Married, 2 children
 - _Languages_: Dutch (native speaker), English (fluent written and spoken)
-- _Social media_: [khenderick_](https://twitter.com/khenderick_) (twitter) • [khenderick](https://github.com/khenderick) (github) • [kennethhenderick](https://www.linkedin.com/in/kennethhenderick/) (linkedin)
+- _Social media_: [khenderick_](https://twitter.com/khenderick_) (twitter) • <a href="https://fosstodon.org/@khenderick" rel="me">khenderick</a> (mastodon) • [khenderick](https://github.com/khenderick) (github) • [kennethhenderick](https://www.linkedin.com/in/kennethhenderick/) (linkedin)
 - _Email_: `git log | grep -oEm1 'kenneth@.*?\.be'`
 
 # Interests
