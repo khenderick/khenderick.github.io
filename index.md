@@ -7,7 +7,7 @@
 - _DOB_: December 1985
 - _Family_: Married, 2 children
 - _Languages_: Dutch (native speaker), English (fluent written and spoken)
-- _Social media_: [khenderick_](https://twitter.com/khenderick_) (twitter) • <a href="https://fosstodon.org/@khenderick" rel="me">khenderick</a> (mastodon) • [khenderick](https://github.com/khenderick) (github) • [kennethhenderick](https://www.linkedin.com/in/kennethhenderick/) (linkedin)
+- _Social media_: <a href="https://fosstodon.org/@khenderick" rel="me">khenderick</a> (mastodon) • [khenderick](https://github.com/khenderick) (github) • [kennethhenderick](https://www.linkedin.com/in/kennethhenderick/) (linkedin)
 - _Email_: `git log | grep -oEm1 'kenneth@.*?\.be'`
 
 # Interests
@@ -22,7 +22,7 @@ New software technologies/languages • PCB design • electronics • product d
 - _Python_: 2.7, 3.x • 10+ years • Django, Flask, Gunicorn, Unittest, Asyncio, Celery, ...
 - _C#_: 4.0 • 5+ years • Entity Framework
 - _C_: Embedded programming • 2+ years • MPLAB XC8
-- _Java_: 8 • 1 year • Hibernate, Wildfly, Maven, JavaEE
+- _Java_: 8 • 3+ years • Hibernate, Wildfly, Maven, JavaEE
 - _CI/CD_: Various • 5+ years • Jenkins, Travis, Ansible, Technology-related (automated) build tools
 
 ##### Hobby
@@ -42,7 +42,7 @@ New software technologies/languages • PCB design • electronics • product d
 
 **Software Engineer** • As part of the development team, I am working on various aspect of the application backend, building a multi-device web application that enables users to manage financial data, connecting investors and advisors.
 
-###### 07/2022 - Present • Gent, Belgium • Java, Docker • JavaEE, Wildfly
+###### 07/2022 - Present • Gent, Belgium • Java, Docker • JavaEE, Wildfly, Quarkus
 
 ### [OpenMotics](https://www.openmotics.com/)
 
