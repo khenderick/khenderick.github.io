@@ -22,7 +22,7 @@ New software technologies/languages • PCB design • electronics • product d
 - _Python_: 2.7, 3.x • 10+ years • Django, Flask, Gunicorn, Unittest, Asyncio, Celery, ...
 - _C#_: 4.0 • 5+ years • Entity Framework
 - _C_: Embedded programming • 2+ years • MPLAB XC8
-- _Java_: 8 • 3+ years • Hibernate, Wildfly, Maven, JavaEE
+- _Java_: 8+ • 3+ years • Hibernate, Wildfly, Maven, JavaEE
 - _CI/CD_: Various • 5+ years • Jenkins, Travis, Ansible, Technology-related (automated) build tools
 
 ##### Hobby
